@@ -20,5 +20,5 @@ for i in range (N - 7):
 					if (board[k][l] != 'B'):
 						b+=1
 		result.append(w)
-		result.append(b))
+		result.append(b)
 print(min(result))
